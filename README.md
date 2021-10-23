@@ -4,7 +4,7 @@
 > ### _Building handcrafted unique experiences, combining aesthetics, optimized code and powerful design._
 
 ### Who am I:
-  - [Ssr Full-Stack Developer](https://github.com/ivanbogaeb).
+  - [SSR Full-Stack Developer](https://github.com/ivanbogaeb).
   - Software Engineering Student, 23 years old.
   - Deep interest on diverse technology development and customization.
   - Sharing my ❤️ for technology across the world.
