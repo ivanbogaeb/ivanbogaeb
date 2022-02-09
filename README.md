@@ -17,3 +17,4 @@
   - **`Tools:`** Access, Babel, Excel, Git, Powerpoint, Publisher, Word.
   
   ### You can check my portfolio [HERE](https://ivanbogaeb.github.io) 🔥
+  ### Currently working on my personal project [Steroid](https://steroid-app.github.io) ⚡
