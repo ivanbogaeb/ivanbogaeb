@@ -18,7 +18,3 @@
   
   ### You can check my portfolio: [Here](https://ivanbogaeb.github.io) 🔥
   ### Currently working on my personal project: [Steroid](https://steroid-app.github.io) ⚡
-
-```math
-$$\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background: url('https://github.com/vmfunc/vmfunc/blob/main/ransom.png?raw=true');]{x0000}$}$$
-```
