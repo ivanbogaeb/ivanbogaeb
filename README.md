@@ -5,7 +5,7 @@
 
 ### Who am I:
   - [SSR Full-Stack Developer](https://github.com/ivanbogaeb).
-  - Software Engineering Student, 23 years old.
+  - Software Engineering Student, 26 years old.
   - Deep interest on diverse technology development and customization.
   - Sharing my ❤️ for technology across the world.
 
